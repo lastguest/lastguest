@@ -1,7 +1,5 @@
-<picture decoding="async" loading="lazy"><img src="https://raw.githubusercontent.com/lastguest/lastguest/master/cozy-room.gif" alt="" width="100%" /></picture>
-<picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=lastguest&screen_effect=true&show_rank=false&include_all_commits=true">
-</picture>
+<img src="https://raw.githubusercontent.com/lastguest/lastguest/master/cozy-room.gif" alt="" width="100%" loading="lazy" decoding="async" />
+<img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=lastguest&screen_effect=true&show_rank=false&include_all_commits=true" loading="lazy" decoding="async">
 <!--
 <p align="left">
 <img src="https://raw.githubusercontent.com/lastguest/lastguest/master/train-girl.gif" alt="" align="left"/>
