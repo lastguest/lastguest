@@ -3,6 +3,8 @@ backend:
   repo: lastguest/lastguest
   use_graphql: true
 
+media_folder: "src/media"
+
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
